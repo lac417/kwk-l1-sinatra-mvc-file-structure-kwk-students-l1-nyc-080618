@@ -1,5 +1,5 @@
 class Dog 
-  get '/Dog class' do
+  gets '/Dog class' do
   end
   get 'initialize' do
   end
