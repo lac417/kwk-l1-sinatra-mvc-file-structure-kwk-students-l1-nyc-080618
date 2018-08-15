@@ -1,3 +1,3 @@
 class Dog 
-  get '/' do
+  get '/Dog class' do
 end
