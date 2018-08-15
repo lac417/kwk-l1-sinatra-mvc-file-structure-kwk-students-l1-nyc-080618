@@ -3,4 +3,4 @@ class Dog
   get 'initialize' do
 end
 
-dog.new
+Dog.new("rudolph", "mastiff", 2)
