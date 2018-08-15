@@ -1,7 +1,7 @@
 class Dog 
   gets '/Dog class' do
   end
-  get 'initialize' do
+  gets 'initialize' do
   end
 end
 
