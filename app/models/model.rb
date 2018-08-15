@@ -1,3 +1,3 @@
 class Dog 
-  def initilaize 
+  get '/' do
 end
