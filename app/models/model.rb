@@ -1,3 +1,3 @@
 class Dog 
-  def initilaize
+  def initilaize (name, breed, age)
 end
