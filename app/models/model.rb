@@ -1,5 +1,5 @@
 require 'sinatra'
-  class Dog 
+  class Dog < 
     get '/Dog class' do
     end
     get '/initialize' do
